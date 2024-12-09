@@ -1,4 +1,4 @@
-package udemy;
+package udemy.application;
 
 import java.util.ArrayList;
 import java.util.List;
